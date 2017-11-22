@@ -14,7 +14,7 @@ class TestNetworkInterface(TestCase):
         response = request.urlopen('http://localhost:8000/rtxspy/getData')
         ls = simplejson.loads(response.read())
 
-
+    # 测试网络
 class TestNet2(TestCase):
     def test_getErrorCode(self):
         response = request.urlopen('http://localhost:8000/rtxspy/getError')
