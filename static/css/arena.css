@@ -1,0 +1,188 @@
+html,body{
+
+}
+
+#map{
+
+}
+#dashboard{
+
+}
+
+#grid{
+    margin:50px;
+    float: left;
+}
+#grid .block{
+    width:30px;
+    height:30px;
+    background-color: #f6e2a9;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+#grid .block-active{
+    width:30px;
+    height:30px;
+    background-color: #dc3200;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+#grid .grid_row{
+    margin: -5px 0px;
+    padding:0px;
+}
+
+/*player1头像方向的变化  红色*/
+#grid .beast-head-up {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 30px 15px;
+    border-color: transparent transparent #dc3200 transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-down {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 30px 15px 0 15px;
+    border-color: #dc3200 transparent transparent transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-right {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 30px;
+    border-color: transparent transparent transparent #dc3200;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-left {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 30px 15px 0;
+    border-color: transparent #dc3200 transparent transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+
+/*player2头像方向的变化  黑色*/
+#grid .beast-head-up-2 {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 15px 30px 15px;
+    border-color: transparent transparent #111 transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-down-2 {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 30px 15px 0 15px;
+    border-color: #dc3200 transparent transparent transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-right-2 {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 0 15px 30px;
+    border-color: transparent transparent transparent #dc3200;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+#grid .beast-head-left-2 {
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 15px 30px 15px 0;
+    border-color: transparent #dc3200 transparent transparent;
+    display: inline-block;
+    background-color: #f6e2a9;
+    margin: 2px;
+}
+
+/* beast */
+#beast{
+    float: left;
+}
+#beast .beast_row{
+    margin: -5px 0px;
+    padding:0px;
+}
+#beast .block{
+    width:30px;
+    height:30px;
+    background-color: #acacac;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+/*特殊能力*/
+#beast .block_quickness{
+    width:30px;
+    height:30px;
+    background-color: darkred;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+#beast .block_strength{
+    width:30px;
+    height:30px;
+    background-color: #0064d4;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+#beast .block_health{
+    width:30px;
+    height:30px;
+    background-color: darkgreen;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+#beast .block_defence{
+    width:30px;
+    height:30px;
+    background-color: #fc6701;
+    margin: 2px;
+    display: inline-block;
+    padding:0px;
+    border: 0px;
+}
+
+#beast>div{
+    float: left;
+    margin: 18px;
+
+}
+#dashboard .data{
+    margin:20px;
+    display: inline-block;
+    float: left;
+}
+
