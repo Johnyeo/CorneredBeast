@@ -5,7 +5,6 @@ from corneredbeast.rtxspy.rtxmain.db_handler import Database
 class TestDatabase(TestCase):
     def test_query(self):
         db = Database()
-        self.assertEqual('query success',db.query(),msg="wrong name")
 
 
 

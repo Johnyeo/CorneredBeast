@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10386f8-fe4e-4668-bd27-a02d4a73f7f5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/corneredbeast.iml" afterPath="$PROJECT_DIR$/.idea/corneredbeast.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/settings.py" afterPath="$PROJECT_DIR$/corneredbeast/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_networkInterface.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_networkInterface.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+            <state relative-caret-position="225">
+              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
               <folding>
                 <element signature="e#17#43#0" expanded="true" />
               </folding>
@@ -68,11 +65,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_database.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test_database.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="90">
+              <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -213,7 +210,6 @@
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/templates/rtxspy/rtxspy.html" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/static/js/rtxspy.js" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test_getData.py" />
-        <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/functions.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_getData.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/urls.py" />
@@ -222,6 +218,7 @@
         <option value="$PROJECT_DIR$/corneredbeast/settings.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/models.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" />
+        <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" />
       </list>
     </option>
   </component>
@@ -729,7 +726,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511342367660</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modify unitest, testing jenkins">
+      <created>1512560159449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1512560159449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -781,9 +785,9 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41833332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41833332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -833,7 +837,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Use Unittest for interface/network testing." />
-    <option name="LAST_COMMIT_MESSAGE" value="Use Unittest for interface/network testing." />
+    <MESSAGE value="modify unitest, testing jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify unitest, testing jenkins" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1152,22 +1157,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="225">
+          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#17#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py">
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        <state relative-caret-position="90">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
           <folding>
-            <element signature="e#17#43#0" expanded="true" />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
