@@ -1,45 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f10386f8-fe4e-4668-bd27-a02d4a73f7f5" name="Default" comment="init commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/static/img/sss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/test.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/templates/arena/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/arena/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/functions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/static/css/rtxspy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/static/js/rtxspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/templates/rtxspy/rtxspy.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/corneredbeast/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/arena.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/rtxspy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/arena.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/echarts.js" />
+    <list default="true" id="f10386f8-fe4e-4668-bd27-a02d4a73f7f5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/corneredbeast.iml" afterPath="$PROJECT_DIR$/.idea/corneredbeast.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" afterPath="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/corneredbeast/settings.py" afterPath="$PROJECT_DIR$/corneredbeast/settings.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,8 +19,11 @@
     <SUITE FILE_PATH="coverage/corneredbeast$Unittests_in_test_getData_py.coverage" NAME="Unittests in test_networkInterface.py Coverage Results" MODIFIED="1510811888077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
     <SUITE FILE_PATH="coverage/corneredbeast$Unittests_in_test_database_py.coverage" NAME="Unittests in test_database.py Coverage Results" MODIFIED="1510811113016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
     <SUITE FILE_PATH="coverage/corneredbeast$Test__corneredbeast_rtxspy_test.coverage" NAME="Test: corneredbeast.rtxspy.test Coverage Results" MODIFIED="1510812535199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/corneredbeast$Unittests_in_test_networkInterface_py.coverage" NAME="Unittests in test_networkInterface.py Coverage Results" MODIFIED="1510812746156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
+    <SUITE FILE_PATH="coverage/corneredbeast$Unittests_in_test_networkInterface_py.coverage" NAME="Unittests in test_networkInterface.py Coverage Results" MODIFIED="1512454053620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
     <SUITE FILE_PATH="coverage/corneredbeast$Unittests_for_test_networkInterface_TestNet2.coverage" NAME="Unittests for test_networkInterface.TestNet2 Coverage Results" MODIFIED="1510813206077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
+    <SUITE FILE_PATH="coverage/corneredbeast$rtx_spy.coverage" NAME="rtx_spy Coverage Results" MODIFIED="1511343102309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../office_operations/RTX_SPY" />
+    <SUITE FILE_PATH="coverage/corneredbeast$py_test_for_test_networkInterface_TestNetworkInterface_test2_getErrorCode.coverage" NAME="py.test for test_networkInterface.TestNetworkInterface.test2_getErrorCode Coverage Results" MODIFIED="1512456177049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
+    <SUITE FILE_PATH="coverage/corneredbeast$py_test_for_test_networkInterface_TestNetworkInterface.coverage" NAME="py.test for test_networkInterface.TestNetworkInterface Coverage Results" MODIFIED="1512559719014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
     <SUITE FILE_PATH="coverage/corneredbeast$Unittests_for_test_database_TestDatabase_test_query.coverage" NAME="Unittests for test_database.TestDatabase.test_query Coverage Results" MODIFIED="1510744780416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
   </component>
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
@@ -62,16 +32,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1875">
-              <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corneredbeast/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,16 +40,6 @@
               <folding>
                 <element signature="e#647#688#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rtxspy.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/templates/rtxspy/rtxspy.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -109,10 +59,22 @@
       <file leaf-file-name="test_networkInterface.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="116">
+              <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#17#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_database.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,31 +83,41 @@
       <file leaf-file-name="db_handler.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="functions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/functions.py">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_database.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="1365">
+              <caret line="92" column="64" lean-forward="false" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
               <folding>
-                <element signature="e#0#29#0" expanded="true" />
+                <element signature="e#317#326#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my.cnf" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my.cnf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,37 +129,6 @@
               <caret line="4" column="38" lean-forward="false" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
               <folding>
                 <element signature="e#16#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rtxspy.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/static/js/rtxspy.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="960">
-              <caret line="238" column="39" lean-forward="false" selection-start-line="238" selection-start-column="39" selection-end-line="238" selection-end-column="39" />
-              <folding>
-                <element signature="e#112#1648#0" expanded="false" />
-                <element signature="e#2060#2086#0" expanded="false" />
-                <element signature="e#2126#4361#0" expanded="false" />
-                <element signature="e#2264#2756#0" expanded="false" />
-                <element signature="e#2790#4341#0" expanded="false" />
-                <element signature="e#2815#2904#0" expanded="false" />
-                <element signature="e#2931#3039#0" expanded="false" />
-                <element signature="e#3065#3161#0" expanded="false" />
-                <element signature="e#3186#3392#0" expanded="false" />
-                <element signature="e#3416#3573#0" expanded="false" />
-                <element signature="e#3598#3680#0" expanded="false" />
-                <element signature="e#3706#4327#0" expanded="false" />
-                <element signature="e#5178#5412#0" expanded="false" />
-                <element signature="e#5434#5489#0" expanded="false" />
-                <element signature="e#5512#5718#0" expanded="false" />
-                <element signature="e#5742#5837#0" expanded="false" />
-                <element signature="e#5858#6824#0" expanded="false" />
-                <element signature="e#6845#7338#0" expanded="false" />
-                <element signature="e#6863#7083#0" expanded="false" />
-                <element signature="e#7868#8316#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -232,6 +173,8 @@
       <find>test</find>
       <find>arena</find>
       <find>series</find>
+      <find>database</find>
+      <find>local</find>
     </findStrings>
     <replaceStrings>
       <replace>setTimeout(&quot;step(x0, y0)&quot;,1000);</replace>
@@ -266,17 +209,18 @@
         <option value="$PROJECT_DIR$/corneredbeast/arena/views.py" />
         <option value="$PROJECT_DIR$/corneredbeast/arena/templates/arena/index.html" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/static/css/rtxspy.css" />
-        <option value="$PROJECT_DIR$/corneredbeast/settings.py" />
         <option value="$PROJECT_DIR$/static/js/rtxspy.js" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/templates/rtxspy/rtxspy.html" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/static/js/rtxspy.js" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test_getData.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py" />
-        <option value="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/functions.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_getData.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/urls.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/views.py" />
+        <option value="$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py" />
+        <option value="$PROJECT_DIR$/corneredbeast/settings.py" />
+        <option value="$PROJECT_DIR$/corneredbeast/rtxspy/models.py" />
         <option value="$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py" />
       </list>
     </option>
@@ -407,54 +351,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corneredbeast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corneredbeast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="corneredbeast" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rtxspy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rtxmain" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\static\js" />
-      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast\rtxspy\static" />
-      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast" />
-      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\arena\static\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast\rtxspy\static\js" />
       <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast\rtxspy\static\img" />
       <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast" />
       <recent name="C:\Users\张垚\PycharmProjects\corneredbeast" />
       <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\templates\arena" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast" />
+      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast" />
+      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast\rtxspy" />
+      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\static\js" />
+      <recent name="C:\Users\张垚\PycharmProjects\corneredbeast\corneredbeast\rtxspy\static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -469,39 +392,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for test_networkInterface.TestNet2">
-    <configuration default="false" name="Unittests in test_database.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="corneredbeast" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittests for test_database.TestDatabase.test_query" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="corneredbeast" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_database.TestDatabase.test_query&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.py.test for test_networkInterface.TestNetworkInterface">
     <configuration default="false" name="Unittests in test_networkInterface.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -518,26 +409,6 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <configuration default="false" name="Test: corneredbeast.rtxspy.test" type="DjangoTestsConfigurationType" factoryName="Django tests" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="corneredbeast" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="TARGET" value="corneredbeast.rtxspy.test" />
-      <option name="SETTINGS_FILE" value="" />
-      <option name="CUSTOM_SETTINGS" value="false" />
-      <option name="USE_OPTIONS" value="false" />
-      <option name="OPTIONS" value="" />
-      <method />
-    </configuration>
     <configuration default="false" name="Unittests for test_networkInterface.TestNet2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -551,6 +422,59 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_networkInterface.TestNet2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="rtx_spy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../office_operations/RTX_SPY" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="corneredbeast" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../office_operations/RTX_SPY/rtx_spy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_networkInterface.TestNetworkInterface" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="corneredbeast" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_networkInterface.TestNetworkInterface&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="py.test for test_networkInterface.TestNetworkInterface.test2_getErrorCode" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/corneredbeast/rtxspy/test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="corneredbeast" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_networkInterface.TestNetworkInterface.test2_getErrorCode&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method />
     </configuration>
@@ -725,6 +649,23 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="corneredbeast" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
     <configuration default="false" name="corneredbeast" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -751,19 +692,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Django server.corneredbeast" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_database.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_database.TestDatabase.test_query" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_networkInterface.py" />
-      <item index="4" class="java.lang.String" itemvalue="Django tests.Test: corneredbeast.rtxspy.test" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests for test_networkInterface.TestNet2" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_networkInterface.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_networkInterface.TestNet2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.rtx_spy" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.py.test for test_networkInterface.TestNetworkInterface" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.py.test for test_networkInterface.TestNetworkInterface.test2_getErrorCode" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests for test_networkInterface.TestNet2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_networkInterface.py" />
-        <item index="2" class="java.lang.String" itemvalue="Django tests.Test: corneredbeast.rtxspy.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_database.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_database.TestDatabase.test_query" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.py.test for test_networkInterface.TestNetworkInterface" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.py.test for test_networkInterface.TestNetworkInterface.test2_getErrorCode" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_networkInterface.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python.rtx_spy" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests for test_networkInterface.TestNet2" />
       </list>
     </recent_temporary>
   </component>
@@ -781,30 +722,17 @@
       <option name="presentableId" value="Default" />
       <updated>1508814719723</updated>
     </task>
+    <task id="LOCAL-00001" summary="Use Unittest for interface/network testing.">
+      <created>1511342367660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511342367660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 12m 56s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 14m 51s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 15m 44s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 16m 24s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 17m 53s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 18m 21s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 18m 38s.xml">
-      <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 19m 09s.xml">
       <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
     </history-entry>
@@ -813,6 +741,27 @@
     </history-entry>
     <history-entry file="Unittests_for_test_networkInterface_TestNet2 - 2017.11.16 at 14h 20m 08s.xml">
       <configuration name="Unittests for test_networkInterface.TestNet2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_networkInterface_py - 2017.11.22 at 17h 27m 13s.xml">
+      <configuration name="Unittests in test_networkInterface.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_networkInterface_py - 2017.12.05 at 14h 07m 39s.xml">
+      <configuration name="Unittests in test_networkInterface.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_networkInterface_TestNetworkInterface - 2017.12.05 at 14h 25m 26s.xml">
+      <configuration name="py.test for test_networkInterface.TestNetworkInterface" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_networkInterface_TestNetworkInterface - 2017.12.05 at 15h 19m 24s.xml">
+      <configuration name="py.test for test_networkInterface.TestNetworkInterface" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_networkInterface_TestNetworkInterface - 2017.12.06 at 19h 28m 26s.xml">
+      <configuration name="py.test for test_networkInterface.TestNetworkInterface" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_networkInterface_TestNetworkInterface - 2017.12.06 at 19h 28m 45s.xml">
+      <configuration name="py.test for test_networkInterface.TestNetworkInterface" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_for_test_networkInterface_TestNetworkInterface_test2_getErrorCode - 2017.12.05 at 14h 43m 01s.xml">
+      <configuration name="py.test for test_networkInterface.TestNetworkInterface.test2_getErrorCode" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView" selected-index="4">
@@ -828,36 +777,63 @@
     <frame x="-7" y="1" width="1370" height="734" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27633587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3810316" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2648855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41833332" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="Use Unittest for interface/network testing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Use Unittest for interface/network testing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -868,85 +844,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2375">
-          <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
-          <folding>
-            <element signature="e#647#688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/templates/rtxspy/rtxspy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-          <folding>
-            <element signature="e#16#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/static/js/rtxspy.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4522">
-          <caret line="238" column="39" lean-forward="true" selection-start-line="238" selection-start-column="39" selection-end-line="238" selection-end-column="39" />
-          <folding>
-            <element signature="e#112#1648#0" expanded="false" />
-            <element signature="e#2060#2086#0" expanded="false" />
-            <element signature="e#2126#4361#0" expanded="false" />
-            <element signature="e#2264#2756#0" expanded="false" />
-            <element signature="e#2790#4341#0" expanded="false" />
-            <element signature="e#2815#2904#0" expanded="false" />
-            <element signature="e#2931#3039#0" expanded="false" />
-            <element signature="e#3065#3161#0" expanded="false" />
-            <element signature="e#3186#3392#0" expanded="false" />
-            <element signature="e#3416#3573#0" expanded="false" />
-            <element signature="e#3598#3680#0" expanded="false" />
-            <element signature="e#3706#4327#0" expanded="false" />
-            <element signature="e#5178#5412#0" expanded="false" />
-            <element signature="e#5434#5489#0" expanded="false" />
-            <element signature="e#5512#5718#0" expanded="false" />
-            <element signature="e#5742#5837#0" expanded="false" />
-            <element signature="e#5858#6824#0" expanded="false" />
-            <element signature="e#6845#7338#0" expanded="false" />
-            <element signature="e#6863#7083#0" expanded="false" />
-            <element signature="e#7868#8316#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2242">
           <caret line="122" column="58" lean-forward="false" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="60" />
           <caret line="118" column="58" lean-forward="false" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="e#317#326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,7 +910,9 @@
         <state relative-caret-position="2242">
           <caret line="122" column="58" lean-forward="false" selection-start-line="122" selection-start-column="58" selection-end-line="122" selection-end-column="60" />
           <caret line="118" column="58" lean-forward="false" selection-start-line="118" selection-start-column="58" selection-end-line="118" selection-end-column="60" />
-          <folding />
+          <folding>
+            <element signature="e#317#326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1104,7 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1127,14 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1875">
-          <caret line="125" column="28" lean-forward="false" selection-start-line="125" selection-start-column="28" selection-end-line="125" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1164,7 +1060,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,28 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="238" column="39" lean-forward="false" selection-start-line="238" selection-start-column="39" selection-end-line="238" selection-end-column="39" />
-          <folding>
-            <element signature="e#112#1648#0" expanded="false" />
-            <element signature="e#2060#2086#0" expanded="false" />
-            <element signature="e#2126#4361#0" expanded="false" />
-            <element signature="e#2264#2756#0" expanded="false" />
-            <element signature="e#2790#4341#0" expanded="false" />
-            <element signature="e#2815#2904#0" expanded="false" />
-            <element signature="e#2931#3039#0" expanded="false" />
-            <element signature="e#3065#3161#0" expanded="false" />
-            <element signature="e#3186#3392#0" expanded="false" />
-            <element signature="e#3416#3573#0" expanded="false" />
-            <element signature="e#3598#3680#0" expanded="false" />
-            <element signature="e#3706#4327#0" expanded="false" />
-            <element signature="e#5178#5412#0" expanded="false" />
-            <element signature="e#5434#5489#0" expanded="false" />
-            <element signature="e#5512#5718#0" expanded="false" />
-            <element signature="e#5742#5837#0" expanded="false" />
-            <element signature="e#5858#6824#0" expanded="false" />
-            <element signature="e#6845#7338#0" expanded="false" />
-            <element signature="e#6863#7083#0" expanded="false" />
-            <element signature="e#7868#8316#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1202,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1212,24 +1084,6 @@
           <caret line="22" column="58" lean-forward="false" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
           <folding>
             <element signature="e#647#688#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1254,12 +1108,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/RTX-SPY20171102temp_data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../office_operations/RTX_SPY/rtx_spy.py" />
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/rtxmain/db_handler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corneredbeast/my.cnf" />
+    <entry file="file://$PROJECT_DIR$/corneredbeast/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="92" column="64" lean-forward="false" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+          <folding>
+            <element signature="e#317#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/my.cnf" />
+    <entry file="file://$PROJECT_DIR$/my.cnf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="false" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/corneredbeast/rtxspy/test/test_networkInterface.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="116">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#17#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
