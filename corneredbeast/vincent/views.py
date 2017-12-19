@@ -5,7 +5,7 @@ from django.shortcuts import render
 
 # Create your views here.
 # 首页
-from django.utils.timezone import LocalTimezone
+from django.utils.timezone import pytz
 
 from corneredbeast.vincent.main import hiveToolkit
 from corneredbeast.vincent.main.hiveToolkit import NewPhone
@@ -16,6 +16,7 @@ from corneredbeast.vincent.main.init_db import init_weidongurls
 # 初始化数据库
 from corneredbeast.vincent.models import weidongurls
 
+localtimezone = pytz.timezone('Asia/Shanghai')
 
 def init_db(request):
     init_weidongurls()
@@ -81,7 +82,7 @@ def getTestUrls(request):
     for data in all_data:
     # taget_model = [{name:"青岛",url:"www.baidu.com"}, {xxxxx}, {xxxx}]
         # 格式化时间
-        time = data.create_time.astimezone(LocalTimezone()).strftime("%Y-%m-%d %H:%M:%S")
+        time = data.create_time.astimezone(localtimezone()).strftime("%Y-%m-%d %H:%M:%S")
         # 构造json对象
         result.append({"name":data.name,"addr":data.url,"update":time})
     return JsonResponse({"theUrls":result})
@@ -93,7 +94,7 @@ def getProdUrls(request):
     for data in all_data:
     # taget_model = [{name:"青岛",url:"www.baidu.com"}, {xxxxx}, {xxxx}]
         # 格式化时间
-        time = data.create_time.astimezone(LocalTimezone()).strftime("%Y-%m-%d %H:%M:%S")
+        time = data.create_time.astimezone(localtimezone()).strftime("%Y-%m-%d %H:%M:%S")
         # 构造json对象
         result.append({"name":data.name,"addr":data.url,"update":time})
     return JsonResponse({"theUrls":result})
