@@ -20,5 +20,5 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^arena/', include('corneredbeast.arena.urls')),
-    url(r'^rtxspy/',include('corneredbeast.rtxspy.urls')),
+    url(r'^vincent/', include('corneredbeast.vincent.urls')),
 ]

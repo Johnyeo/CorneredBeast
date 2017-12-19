@@ -1,5 +1,5 @@
 from unittest import TestCase
-from corneredbeast.rtxspy.rtxmain.db_handler import Database
+from corneredbeast.vincent.main.db_handler import Database
 
 # coding:utf-8
 class TestDatabase(TestCase):

@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'corneredbeast.arena',
-    'corneredbeast.rtxspy',
+    'corneredbeast.vincent',
 ]
 
 MIDDLEWARE = [
@@ -133,7 +133,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'corneredbeast/rtxspy/static').replace('\\', '/'),
+    os.path.join(BASE_DIR, 'corneredbeast/vincent/static').replace('\\', '/'),
     os.path.join(BASE_DIR, 'corneredbeast/arena/static').replace('\\', '/'),
     os.path.join(BASE_DIR, 'static').replace('\\', '/'),
                     )

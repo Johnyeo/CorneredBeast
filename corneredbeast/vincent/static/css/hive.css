@@ -1,0 +1,31 @@
+/*通用*/
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    font-family: "Roboto","Lucida Grande","DejaVu Sans","Bitstream Vera Sans",Verdana,Arial,sans-serif;
+    color: #333;
+    background: #fff;
+}
+/*切换的页面*/
+div.layer{
+    display: none;
+}
+/*激活的切换的页面*/
+div.layer.active{
+    display: block;
+}
+/*激活的导航链接*/
+a.active{
+    color: #fc6701;
+}
+/*表格*/
+table{
+    width:100%;
+    border-color: #acacac;
+    border-collapse: collapse;
+}
+table>thead>tr>th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #ddd;
+}

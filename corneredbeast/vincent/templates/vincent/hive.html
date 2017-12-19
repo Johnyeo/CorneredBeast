@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    {% load staticfiles %}
+    <script src="http://apps.bdimg.com/libs/jquery/2.1.1/jquery.js"></script>
+    <script src="{% static 'js/hive.js' %}"></script>
+    <link href="{% static 'css/hive.css' %}" rel="stylesheet"></link>
+    <title>Hive</title>
+</head>
+
+<body>
+<div id="nav">
+    <a href="#" id="testurls_tab" class="active">测试地址</a>
+    <a href="#" id="produrls_tab" class="">生产地址</a>
+    <a href="#" id="phone_tab" class="">改手机号</a>
+</div>
+<div id="container">
+    <div id="testurl_layer" class="layer active">
+        <h3>测试地址</h3>
+        <p>各项目测试环境地址</p>
+        <table id="test_table">
+            <tr><th>序号</th><th>名称</th><th>地址</th><th>更新时间</th></tr>
+        </table>
+    </div>
+    <div id="produrl_layer" class="layer">
+        <h3>生产地址</h3>
+        <p>生产环境地址账号等</p>
+        <table id="prod_table">
+            <tr><th>序号</th><th>名称</th><th>地址</th><th>更新时间</th></tr>
+        </table>
+    </div>
+    <div id="phone_layer" class="layer">
+        <h3>解除手机号绑定</h3>
+        <p>用一个僵尸号替换自己的手机号，手机号就可以再次用于注册</p>
+        <div>
+            {% csrf_token %}
+            <input id="org_phone" type="text" placeholder="要释放的的手机号">
+            <input id="new_phone" type="text" placeholder="要绑定的僵尸号">
+            <input id="id_password" type="password" placeholder="登录密码">
+            <button id="update_phone_btn">确定</button>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

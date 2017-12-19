@@ -61,7 +61,7 @@ $(document).ready(function () {
 
     //获取y坐标信息
     function getData() {
-        $.get('/rtxspy/getData').done(function (data) {
+        $.get('/vincent/getData').done(function (data) {
             var response_data = JSON.parse(data);
             myChart.setOption({
                 title: {

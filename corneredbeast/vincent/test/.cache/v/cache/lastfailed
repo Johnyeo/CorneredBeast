@@ -1,0 +1,4 @@
+{
+  "test_networkInterface.py::TestNetworkInterface::test1_getData": true,
+  "test_networkInterface.py::TestNetworkInterface::test2_getErrorCode": true
+}
