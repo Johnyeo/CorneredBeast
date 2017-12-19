@@ -28,7 +28,7 @@ SECRET_KEY = 'txupmu-=^z8%$-1)y41&-mxxctnyo$iei_^m^)10t&%uys0&t='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.zhangyao.info','zhangyao.info']
 
 
 # Application definition
